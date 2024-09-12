@@ -1,2 +1,11 @@
 npm init -y
 npm i express
+npm i nodemon -D
+
+
+use//sergiom8alexanderd8
+pass//5IogQxLWciiFJrTu
+npm install mongodb
+npm i mongoose
+
+///mongodb+srv://sergiom8alexanderd8:5IogQxLWciiFJrTu@cluster0.foawt.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
